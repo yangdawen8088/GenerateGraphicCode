@@ -1,0 +1,11 @@
+D:\Demo\GenerateGraphicCode\GenerateGraphicCode\bin\Debug\GenerateGraphicCode.exe.config
+D:\Demo\GenerateGraphicCode\GenerateGraphicCode\bin\Debug\GenerateGraphicCode.exe
+D:\Demo\GenerateGraphicCode\GenerateGraphicCode\bin\Debug\GenerateGraphicCode.pdb
+D:\Demo\GenerateGraphicCode\GenerateGraphicCode\obj\Debug\GenerateGraphicCode.csproj.AssemblyReference.cache
+D:\Demo\GenerateGraphicCode\GenerateGraphicCode\obj\Debug\GenerateGraphicCode.Properties.Resources.resources
+D:\Demo\GenerateGraphicCode\GenerateGraphicCode\obj\Debug\GenerateGraphicCode.csproj.GenerateResource.cache
+D:\Demo\GenerateGraphicCode\GenerateGraphicCode\obj\Debug\GenerateGraphicCode.csproj.CoreCompileInputs.cache
+D:\Demo\GenerateGraphicCode\GenerateGraphicCode\obj\Debug\GenerateGraphicCode.exe
+D:\Demo\GenerateGraphicCode\GenerateGraphicCode\obj\Debug\GenerateGraphicCode.pdb
+D:\Demo\GenerateGraphicCode\GenerateGraphicCode\obj\Debug\GenerateGraphicCode.Form_Main.resources
+D:\Demo\GenerateGraphicCode\GenerateGraphicCode\bin\Debug\ThoughtWorks.QRCode.dll
